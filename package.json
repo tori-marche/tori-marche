@@ -1,6 +1,6 @@
 {
     "name": "tori-marche",
-    "version": "1.0.03",
+    "version": "1.0.04",
     "private": false,
     "main": "./tmGlnav.js",
     "license": "MIT",
