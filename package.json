@@ -2,9 +2,9 @@
     "name": "tori-marche",
     "version": "1.0.04",
     "private": false,
-    "main": "./tmGlnav.js",
+    "main": "./tmGlnav.min.js",
     "license": "MIT",
     "author": "yoshihisa ishikawa",
-    "files": [ "dist" ],
+    "files": [ "README.md","*.{js,json}" ],
     "keywords": ["tori-marche"]
 }
