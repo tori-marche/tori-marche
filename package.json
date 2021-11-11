@@ -1,0 +1,10 @@
+{
+    "name": "tori-marche",
+    "version": "1.0.01",
+    "private": false,
+    "main": "./tmGlnav.js",
+    "license": "MIT",
+    "author": "yoshihisa ishikawa",
+    "files": [ "dist" ],
+    "keywords": ["tori-marche"]
+}
